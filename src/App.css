@@ -1,0 +1,12 @@
+@keyframes rotate180 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotateX(180deg);
+  }
+}
+
+.rotating-component {
+  animation: rotate180 0.15s;
+}
