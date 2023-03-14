@@ -2,7 +2,7 @@
 
 Submitted by: **Hassan Ali**
 
-This web app: **insert description**
+This web app: **includes a feature that allow users to enter an answer (with exact or fuzzy matching) and move backwards and forwards through the list of cards**
 
 Time spent: **4** hours spent in total
 
